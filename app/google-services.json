@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "480511634310",
+    "firebase_url": "https://hemanth-5993c.firebaseio.com",
+    "project_id": "hemanth-5993c",
+    "storage_bucket": "hemanth-5993c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480511634310:android:688fdb6a6c16ef36",
+        "android_client_info": {
+          "package_name": "com.example.kalya.hemanth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480511634310-sgnr9im80acf8midql6n7tus1tsbnvcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalya.hemanth",
+            "certificate_hash": "b5cf1e32632af325d46ba1c9a274f297e7336e09"
+          }
+        },
+        {
+          "client_id": "480511634310-djlr0ddic9dq67d58fe60ffhm9m2co49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCc92X9VdDuGiBf0juKpuZd3xUkNBgPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480511634310-djlr0ddic9dq67d58fe60ffhm9m2co49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

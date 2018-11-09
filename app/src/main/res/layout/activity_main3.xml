@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="#039BE5"
+        android:id="@+id/bar">
+    </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sirname"
+        android:text="xyz"
+        android:layout_margin="20dp"
+        android:textSize="18dp"
+        android:layout_below="@+id/bar"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sirname1"
+        android:text="abc"
+        android:layout_margin="20dp"
+        android:textSize="18dp"
+        android:layout_below="@+id/sirname"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="find"
+        android:id="@+id/btn1"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/bar"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="201dp"
+        android:text="find"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>
